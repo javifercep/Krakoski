@@ -1,0 +1,2 @@
+# Krakoski
+Kodillo compatible board
