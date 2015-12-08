@@ -40,11 +40,11 @@ Sheet 12 12
 Title "Krakoski"
 Date "2015-11-14"
 Rev "1.0.0"
-Comp "Javier Fernández Cepeda"
-Comment1 ""
-Comment2 ""
+Comp ""
+Comment1 "Javier Fernández"
+Comment2 "Alejandro Rosas"
 Comment3 "https://github.com/javifercep/Krakoski"
-Comment4 "Kodillo compatible"
+Comment4 "https://github.com/alejandrorosas/Kodillo"
 $EndDescr
 $Comp
 L STM32F405RGT6 U1201

@@ -17,9 +17,10 @@
     (title Krakoski)
     (date 2015-12-01)
     (rev 1.0.0)
-    (company "Javier Fernández Cepeda")
-    (comment 3 https://github.com/javifercep/Krakoski)
-    (comment 4 "Kodillo compatible")
+    (comment 1 "Javier Fernández")
+    (comment 2 "Alejandro Rosas")
+    (comment 3 https://github.com/alejandrorosas/Kodillo)
+    (comment 4 https://github.com/javifercep/Krakoski)
   )
 
   (layers
@@ -81,7 +82,7 @@
     (aux_axis_origin 0 0)
     (visible_elements 7FFFFFFF)
     (pcbplotparams
-      (layerselection 0x0103c_80000001)
+      (layerselection 0x010f0_80000001)
       (usegerberextensions true)
       (excludeedgelayer true)
       (linewidth 0.100000)
